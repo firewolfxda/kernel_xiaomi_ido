@@ -512,3 +512,35 @@
 };
 
 #include "lineage-xiaomi-ido.dtsi"
+
+&CPU0 {
+    clock-frequency = <1497600000>;
+};
+
+&CPU1 {
+    clock-frequency = <1497600000>;
+};
+
+&CPU2 {
+    clock-frequency = <1497600000>;
+};
+
+&CPU3 {
+    clock-frequency = <1497600000>;
+};
+
+&CPU4 {
+    clock-frequency =< 1209600000>;
+};
+
+&CPU5 {
+    clock-frequency = <1209600000>;
+};
+
+&CPU6 {
+    clock-frequency = <1209600000>;
+};
+
+&CPU7 {
+    clock-frequency = <1209600000>;
+};
